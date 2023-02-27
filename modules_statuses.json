@@ -1,0 +1,7 @@
+{
+    "Users": true,
+    "providers": [
+        "Modules\\Users\\Providers\\InertiaServiceProvider"
+    ],
+    "Roles": true
+}
